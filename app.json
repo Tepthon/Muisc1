@@ -1,0 +1,69 @@
+{
+  "name": "سورس تيبثون ميوزك",
+  "logo": "https://telegra.ph/file/6ca6055494e5e2c366318.jpg",
+  "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
+  "keywords": ["music", "voicechat", "telegram", "fallen"],
+  "repository": "https://github.com/Tepthon/Muisc 1",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "ضع كود بايروجرام حبيبي",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "ضع توكن بوتك يا قلبي",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "معرف بوتك بدون @",
+      "required": false,
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": " مره تانيه معرف بوتك بدون @",
+      "required": false,
+      "value": ""
+    },
+    "API_ID": {
+      "description": "ايبي ايدي ضع هنا my.telegram.org/apps",
+      "required": false
+    },
+    "API_HASH": {
+      "description": "ايبي هاش ضع هنا my.telegram.org/apps",
+      "required": false
+    },
+    "OWNER_USERNAME": {
+      "description": "معرفك كمطور البوت بدون @",
+      "required": false,
+      "value": "P17_12"
+    },
+    "SUPPORT_GROUP": {
+      "description": "معرف كروبك بدون @",
+      "required": false,
+      "value": "Tepthon_Support"
+    },
+    "SUDO_USERS": {
+      "description": "ضع ايديك ياغالي.",
+      "required": true,
+      "value": ""
+    },
+    "START_IMG": {
+      "description": "ضع صورة البوت",
+      "required": false
+    },
+    "PING_IMG": {
+      "description": "ضع صورة البوت مره تانيه",
+      "required": false
+    },
+    "PMPERMIT": {
+      "description": "عوفها لاتلعب بيها",
+      "required": false,
+      "value": "ENABLE"
+    },
+    "DURATION_LIMIT": {
+      "description": "هم عوفها لاتلعب بشي تحياتي لك المبرمج محمد",
+      "required": false,
+      "value": "90"
+    }
+  }
+}
