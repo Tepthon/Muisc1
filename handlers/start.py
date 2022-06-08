@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━
  هلا بك انا بوت يمكنني تشغيل الاغاني في المكالمه
 اضغط على زر الاوامر لمعرفة طريقة التشغيل 
-تم اصدار هذا البوت من قناة سورس تيبثون تابعنا هنا [قناة السورس](t.me/Tepthon)...
+تم اصدار هذا البوت من قناة سورس كوبرا تيبثون هنا [قناة السورس](t.me/Tepthon)...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -34,10 +34,9 @@ async def start_(client: Client, message: Message):
                         "• الاوامر •", url=f"https://telegra.ph/%F0%9D%99%B2%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85s-04-06"
                     ),
                     InlineKeyboardButton(
-                        "• مطور السورس •", url="https://t.me/P17_12"
+                        "• مطور البوت •", url="https://t.me/{OWNER_NAME}"
                     )]
             ]
        ),
     )
-
 
