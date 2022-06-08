@@ -13,7 +13,8 @@
 
 ### استخراج جلسة بايروجرام
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/TYWEROAbot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](
+https://replit.com/@DEVESLAM/tebthon?v=1)
 
 ### تابع قناة السورس لتلقي جميع السورسات المجانيه [تيبثون](https://t.me/Tepthon)
 
