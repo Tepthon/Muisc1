@@ -7,11 +7,11 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "ضع كود بايروجرام حبيبي",
+      "description": "ضع كود بايروجرام ",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "ضع توكن بوتك يا قلبي",
+      "description": "ضع توكن بوتك ",
       "required": true
     },
     "BOT_NAME": {
@@ -43,7 +43,7 @@
       "value": "Tepthon_Support"
     },
     "SUDO_USERS": {
-      "description": "ضع ايديك ياغالي.",
+      "description": "ضع ايديك .",
       "required": true,
       "value": ""
     },
